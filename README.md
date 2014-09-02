@@ -9,8 +9,8 @@ Create .env file with following with AWS_ACCESS_KEY_ID, AWS_SECRET_ACCESS_KEY an
 
 # Running it
 
-ruby app.rb
-ruby worker.rb
+    ruby app.rb
+    ruby worker.rb
 
 [sinatra]:www.sinatrarb.com
 [sqs]:http://aws.amazon.com/sqs/
