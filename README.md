@@ -1,5 +1,5 @@
-sinatra-amazon-sqs
-==================
+Sinatra to Amazon SQS
+=====================
 
 [Sinatra][sinatra] to [Amazon Simple Queue Service (SQS)][sqs] - example application source code, that is used in my [blog post][blog].
 
